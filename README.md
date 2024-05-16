@@ -4,7 +4,8 @@
 ## Firebase page link
 
     https://mario-1db2e.web.app/
-    
+    https://mario-1db2e.firebaseapp.com/
+
 ## Scoring
 
 |**Basic Component**|**Score**|**Check**|
