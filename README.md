@@ -6,7 +6,7 @@
     https://mario-1db2e.web.app/
     https://mario-1db2e.firebaseapp.com/
 
-### Scoring
+## Scoring
 
 |**Basic Component**|**Score**|**Check**|
 |:-:|:-:|:-:|
