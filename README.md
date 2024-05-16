@@ -2,9 +2,8 @@
 
 
 ## Firebase page link
-
-    [mario-1db2e.web.app/](https://mario-1db2e.web.app/)  
-    [mario-1db2e.firebaseapp.com/](https://mario-1db2e.firebaseapp.com/)
+[mario-1db2e.web.app/](https://mario-1db2e.web.app/)  
+[mario-1db2e.firebaseapp.com/](https://mario-1db2e.firebaseapp.com/)
 
 
 
