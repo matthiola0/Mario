@@ -1,7 +1,7 @@
 # Software Studio 2023 Spring Assignment 2
 
 
-# Firebase page link
+## Firebase page link
 
     https://mario-1db2e.web.app/
     https://mario-1db2e.firebaseapp.com/
